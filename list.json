@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Fuga",
+    "Slug": "fuga",
+    "Collection ID": "60bd2ef55ff43a1bd824d7a8",
+    "Item ID": "60bd2efef2d58512d3a876bc",
+    "Created On": "Sun Jun 06 2021 20:24:30 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sun Jun 06 2021 21:01:04 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sun Jun 06 2021 21:03:19 GMT+0000 (Coordinated Universal Time)",
+    "Price": 7.8,
+    "Cover Image": "https://uploads-ssl.webflow.com/60bd2ef5e3a9fdfce6e2d162/60bd2efb37c0495b78f4ca69_1623011066889-image12.jpg",
+    "Cover Color": "green",
+    "Type": "eBook"
+  },
+  {
+    "Name": "Harry Potter",
+    "Slug": "harry-potter",
+    "Collection ID": "60bd2ef55ff43a1bd824d7a8",
+    "Item ID": "60bd2efe1366548ab769d75f",
+    "Created On": "Sun Jun 06 2021 20:24:30 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sun Jun 06 2021 21:01:01 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sun Jun 06 2021 21:03:19 GMT+0000 (Coordinated Universal Time)",
+    "Price": 9.9,
+    "Cover Image": "https://uploads-ssl.webflow.com/60bd2ef5e3a9fdfce6e2d162/60bd2efbe3a9fd117ae2d189_1623011066892-image14.jpg",
+    "Cover Color": "green",
+    "Type": "Paper"
+  },
+  {
+    "Name": "Lost",
+    "Slug": "lost",
+    "Collection ID": "60bd2ef55ff43a1bd824d7a8",
+    "Item ID": "60bd2efe13665410c369d75e",
+    "Created On": "Sun Jun 06 2021 20:24:30 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sun Jun 06 2021 21:00:57 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sun Jun 06 2021 21:03:19 GMT+0000 (Coordinated Universal Time)",
+    "Price": 12.5,
+    "Cover Image": "https://uploads-ssl.webflow.com/60bd2ef5e3a9fdfce6e2d162/60bd2efbc1284bbed13cb392_1623011066857-image15.jpg",
+    "Cover Color": "#000000",
+    "Type": "eBook"
+  },
+  {
+    "Name": "No Rules",
+    "Slug": "no-rules",
+    "Collection ID": "60bd2ef55ff43a1bd824d7a8",
+    "Item ID": "60bd2efe0c4f5a6e468b655d",
+    "Created On": "Sun Jun 06 2021 20:24:30 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sun Jun 06 2021 21:00:53 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sun Jun 06 2021 21:03:19 GMT+0000 (Coordinated Universal Time)",
+    "Price": 11.4,
+    "Cover Image": "https://uploads-ssl.webflow.com/60bd2ef5e3a9fdfce6e2d162/60bd2efbbfc82462f0dfe195_1623011066862-image16.jpg",
+    "Cover Color": "blue",
+    "Type": "Paper"
+  },
+  {
+    "Name": "Under Table",
+    "Slug": "under-table",
+    "Collection ID": "60bd2ef55ff43a1bd824d7a8",
+    "Item ID": "60bd2efe0e905122635ae04a",
+    "Created On": "Sun Jun 06 2021 20:24:30 GMT+0000 (Coordinated Universal Time)",
+    "Updated On": "Sun Jun 06 2021 21:00:48 GMT+0000 (Coordinated Universal Time)",
+    "Published On": "Sun Jun 06 2021 21:03:19 GMT+0000 (Coordinated Universal Time)",
+    "Price": 19,
+    "Cover Image": "https://uploads-ssl.webflow.com/60bd2ef5e3a9fdfce6e2d162/60bd2efb0e90518e5d5ae046_1623011066894-image1.jpg",
+    "Cover Color": "Red",
+    "Type": "eBook"
+  }
+]
